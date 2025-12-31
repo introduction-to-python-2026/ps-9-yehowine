@@ -1,2 +1,2 @@
-path: "path_to_model.joblib Parkinsons_model"
-features: ['spread', 'PPE']
+path: "my_model.joblib"
+features: ['MDVP:Shimmer','MDVP:Fo(Hz)']
